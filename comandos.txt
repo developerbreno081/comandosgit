@@ -13,6 +13,3 @@ git commit -m "mensagem explicativa"
 git branch -M main
 git remote add origin (link https ou SSH)
 git push -u origin main
-
-
-TESTE
