@@ -1,0 +1,7 @@
+//Comandos Git
+
+*Configurar nome de usuário do Github
+git config --global user.name "Seu nome de usuário"
+
+*Configurar email de usuário do Github
+git config --global user.email "Seu email"
