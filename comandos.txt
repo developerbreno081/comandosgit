@@ -1,7 +1,15 @@
 //Comandos Git
 
-*Configurar nome de usuário do Github
+*Configurar nome de usuário do Github 
 git config --global user.name "Seu nome de usuário"
 
 *Configurar email de usuário do Github
 git config --global user.email "Seu email"
+
+*Passo a Passo: salvar primeira versão de um projeto no Github
+git init 
+git add .
+git commit -m "mensagem explicativa"
+git branch -M main
+git remote add origin (link https ou SSH)
+git push -u origin main
